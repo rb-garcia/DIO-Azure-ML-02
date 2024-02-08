@@ -13,6 +13,18 @@ Reconhecimento Facial e transformação de imagens em Dados no Azure ML
   - Clique na aba "Image analysis"
   - Clique no quadro "Add captions to images"
   - Selecione ou abra uma imagem do seu computador para ser processada
+  - O resultado da analise da imagem pode ser visualizada na tela em formato texto ou Json
  
-  ## Para criar um 
+  ## Reconhecimento facial
+  - Clique na aba "Face"
+  - Clique no quadro "Detect faces in image"
+  - Selecione ou abra uma imagem do seu computador para ser processada
+  - O resultado da analise da imagem pode ser visualizada na tela em formato texto ou Json
+
+  ## Extrair texto de uma imagem
+  - Clique na aba "Optical character recognition"
+  - Clique no quadro "Extract text from images"
+  - Selecione ou abra uma imagem do seu computador para ser processada
+  - O resultado da analise da imagem pode ser visualizada na tela em formato texto ou Json
+
 
