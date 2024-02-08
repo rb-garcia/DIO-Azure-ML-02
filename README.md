@@ -26,5 +26,8 @@ Reconhecimento Facial e transformação de imagens em Dados no Azure ML
   - Clique no quadro "Extract text from images"
   - Selecione ou abra uma imagem do seu computador para ser processada
   - O resultado da analise da imagem pode ser visualizada na tela em formato texto ou Json
+ 
+  ### Observação
+  - As imagens que foram utilizadas nesse laboratório são publicas e foram criadas por IA.
 
 
