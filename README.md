@@ -10,5 +10,9 @@ Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 - Retorne para a tela inicial
 
   ## Para criar um texto de uma imagem "Captions"
-  - 
+  - Clique na aba "Image analysis"
+  - Clique no quadro "Add captions to images"
+  - Selecione ou abra uma imagem do seu computador para ser processada
+ 
+  ## Para 
 
