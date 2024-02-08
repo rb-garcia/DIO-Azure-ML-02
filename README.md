@@ -14,5 +14,5 @@ Reconhecimento Facial e transformação de imagens em Dados no Azure ML
   - Clique no quadro "Add captions to images"
   - Selecione ou abra uma imagem do seu computador para ser processada
  
-  ## Para 
+  ## Para criar um 
 
