@@ -8,5 +8,7 @@ Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 - Preencha os campos conforme solicitado. Na opção "Price tier" selecione a opção S0"
 - Após criar o recurso clique na opção "Select as default resource"
 - Retorne para a tela inicial
-- 
+
+  ## Para criar um texto de uma imagem "Captions"
+  - 
 
