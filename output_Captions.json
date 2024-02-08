@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "4536cc94-074e-43cc-9650-587ab6f3c926",
+  "content-length": "165",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a group of people hiking on a mountain",
+    "confidence": 0.8232771754264832
+  },
+  "metadata": {
+    "width": 275,
+    "height": 183
+  }
+}
