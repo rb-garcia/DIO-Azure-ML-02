@@ -6,5 +6,7 @@ Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 - Expanda a opção "View all resources"
 - Criar um novo recurso " + Create a new resource"
 - Preencha os campos conforme solicitado. Na opção "Price tier" selecione a opção S0"
+- Após criar o recurso clique na opção "Select as default resource"
+- Retorne para a tela inicial
 - 
 
